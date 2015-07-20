@@ -28,4 +28,5 @@ This will pull data for arrival predictions for bus stops within 1mi of a fixed 
 
 
 Fare Estimate Calculator
+
 Get real time fare estimates for yourself or a group of people from one destination to another. Determine if it's worth your time to save a dollar or two by riding WMATA or if it's peak of the peak and calling an Uber might be more worth it.
