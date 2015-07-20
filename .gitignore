@@ -1,0 +1,6 @@
+.DS_Store
+coverage
+db/*.sqlite3
+
+session_secret.txt
+wmata_token.txt
